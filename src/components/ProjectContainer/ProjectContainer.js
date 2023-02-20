@@ -9,7 +9,7 @@ const ProjectContainer = () => {
       img: "./assets/gmail_clone.png",
       title: "Gmail Clone",
       desc: "gmail clone app using React,Mongodb & Nodejs",
-      link: "https://master--lucky-custard-186f6c.netlify.app/",
+      link: "https://regal-liger-dce38b.netlify.app/",
 
     },
     {
